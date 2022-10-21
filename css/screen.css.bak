@@ -42,9 +42,10 @@
 		padding: 25px;
 		font-size: 25px;
 		text-align: center;
-		width:min-content;
-		height: min-content;
 		background: rgb(222, 11, 11);
+		width:max-content;
+		height: max-content;
+		
 }
 	.title {
 		margin-bottom: 20px;
