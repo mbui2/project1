@@ -39,7 +39,7 @@
 		padding: 32px;
 }
 	.info {
-		padding: 85px;
+		padding: 84px;
 		font-size: 25px;
 		text-align: center;
 		background: rgb(222, 11, 11,0.7);
