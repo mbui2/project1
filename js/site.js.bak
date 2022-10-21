@@ -1,6 +1,6 @@
 function formcheck() {
 	var email = document.forms["registerForm"]["email"].value
-	var number = document.forms["registerForm"]["number"].value
+	var amount = document.forms["registerForm"]["amount"].value
 		if((!email) || (!number)) {
 		alert("Please fill in all the fields");
 		return false;
