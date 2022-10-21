@@ -29,7 +29,7 @@
     </div>
     <div class="check">
       <input type="checkbox" name="checkbox">
-      <label>I am ready to receive my free t-shirts in exchange my soul.</label>
+      <label>I am ready to receive my free t-shirts in exchange for my soul.</label>
     </div>
     <button type="Submit">Submit</button>
     </form>

@@ -1,0 +1,11 @@
+function formcheck() {
+	var email = document.forms["registerForm"]["email"].value
+	var number = document.forms["registerForm"]["number"].value
+		if((!email) || (!number)) {
+		alert("Please fill in all the fields");
+		return false;
+	}
+		else {
+		alert("You will have your t-shirt soon muahaha")
+	}
+}
