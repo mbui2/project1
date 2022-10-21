@@ -42,9 +42,9 @@
 		padding: 25px;
 		font-size: 25px;
 		text-align: center;
-		background: rgb(222, 11, 11);
-		width:max-content;
-		height: max-content;
+		background: rgb(222, 11, 11,0.7);
+		width:min-content;
+		height: min-content;
 		
 }
 	.title {
@@ -64,12 +64,8 @@
 }
 	form {
 		padding: 21px;
-		opacity: 0.9;
+		opacity: 1;
 		background: orange;
-}
-	input {
-		padding: 5px;
-		margin-bottom: 30px;
 }
 	button {
 		color: black;
@@ -80,6 +76,11 @@
 		background: white;
 		
 }
+	input {
+		padding: 5px;
+		margin-bottom: 30px;
+}
+	
 	@media (min-width: 650px) {
 		html {
 			height: 100%
