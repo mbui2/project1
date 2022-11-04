@@ -31,7 +31,7 @@
       <input type="checkbox" name="checkbox">
       <label>I am ready to receive my free t-shirts in exchange for my soul.</label>
     </div>
-    <button type="Submit">Submit</button>
+    <button type="Submit">Give Me Your Soul</button>
     </form>
   </div>
 </body>
