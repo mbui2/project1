@@ -25,7 +25,7 @@
     <label>Email: </label>
     <input type="text" name="email" placeholder="Email">
 	<label> How many t-shirts do you desire:</label>
-    <input type="number" name="number" placeholder="Number">
+    <input type="number" name="amount" placeholder="Amount">
     </div>
     <div class="check">
       <input type="checkbox" name="checkbox">
