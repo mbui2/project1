@@ -2,7 +2,7 @@
 		var email = document.forms["registerForm"]["email"].value
 		var amount = document.forms["registerForm"]["amount"].value
 		if((!email) || (!amount)) {
-			alert("Please fill in all the fields");
+			alert("Still hesitating eh? fill in all the fields NOW!");
 			return false;
 		}
 		else {
