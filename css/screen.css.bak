@@ -6,7 +6,7 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		min-height: 100%;
-		font-family:"Arial";
+		font-family:"Raleway", Arial, cursive;
 		padding:0;
 		margin: 0;
 		color: rgb(255, 255, 255);
@@ -66,6 +66,10 @@
 		padding: 10px;
 		background: rgb(255, 165, 0,0.7);
 }
+	input {
+  padding: 5px;
+  margin-bottom: 30px;
+}
 	button {
 		color: black;
 		font-size: 20px;
@@ -74,6 +78,13 @@
 		margin-top: 5px;
 		background: white;
 		
+}
+	input[type=submit]:hover {
+  background-color: white;
+}
+input[type=submit] {
+  font-family: 'Fredoka One', cursive;
+  background-color: rgba(0, 128, 255, 0.9);
 }
 	input {
 		padding: 5px;
